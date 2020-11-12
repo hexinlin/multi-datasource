@@ -1,0 +1,17 @@
+*.ipr
+*.iml
+*.iws
+.DS_Store
+*/target/*
+*.classpath
+*.project
+*.settings
+*/bin/*
+*.orig
+*.metadata/*
+*.cache
+*/\.settings/*
+target/*
+.idea
+node_modules/
+*.log
