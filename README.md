@@ -1,4 +1,4 @@
-# 数据读写分离和动态数据源
+@[TOC](数据读写分离和动态数据源)
 
 ## 项目背景
 
@@ -264,4 +264,11 @@ public class UserService {
 ```
 
 ## 源代码及demo地址
+1.源码及demo：
+```javascript
 https://github.com/hexinlin/multi-datasource.git
+```
+2.直接可用于项目中的jar包：
+```javascript
+https://github.com/hexinlin/multi-datasource/blob/master/jars/multi-datasource-core-1.0.0.jar
+```
